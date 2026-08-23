@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_timeline_items",
+  "info": {
+    "displayName": "Timeline Item"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

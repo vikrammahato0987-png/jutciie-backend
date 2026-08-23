@@ -1,0 +1,31 @@
+[2026-07-02 10:54:26.486] info: [export] Diagnostic log file: E:\jut\jutciie-cms\export_1782969866161.log (info-level messages are written here even without --verbose)
+[2026-07-02 10:54:26.487] info: [file-destination-provider] creating gzip
+
+[2026-07-02 10:54:26.579] info: [local-source-provider] getting metadata
+
+[2026-07-02 10:54:26.580] info: [local-source-provider] getting metadata
+
+[2026-07-02 10:54:26.580] info: [local-source-provider] getting schemas
+
+[2026-07-02 10:54:26.590] info: [local-source-provider] getting schemas
+
+[2026-07-02 10:54:26.596] info: [file-destination-provider] creating schemas write stream
+
+[2026-07-02 10:54:26.766] info: [local-source-provider] creating entities read stream
+
+[2026-07-02 10:54:26.771] info: [file-destination-provider] creating entities write stream
+
+[2026-07-02 10:54:30.870] info: [local-source-provider] creating assets read stream
+
+[2026-07-02 10:54:30.916] info: [file-destination-provider] creating assets write stream
+
+[2026-07-02 10:54:31.173] info: [local-source-provider] creating links read stream
+
+[2026-07-02 10:54:31.175] info: [file-destination-provider] creating links write stream
+
+[2026-07-02 10:54:44.677] info: [local-source-provider] creating configuration read stream
+
+[2026-07-02 10:54:44.677] info: [file-destination-provider] creating configuration write stream
+
+[2026-07-02 10:54:47.677] info: [file-destination-provider] writing metadata
+

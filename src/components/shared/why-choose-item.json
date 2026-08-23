@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_why_choose_items",
+  "info": {
+    "displayName": "why-choose-item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "icon": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,67 @@
+{
+  "kind": "collectionType",
+  "collectionName": "announcements",
+  "info": {
+    "singularName": "announcement",
+    "pluralName": "announcements",
+    "displayName": "Announcement"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "publishDate": {
+      "type": "date"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "Applications",
+        "Notice",
+        "Circular",
+        "Workshop",
+        "Training",
+        "Hackathon",
+        "Competition",
+        "Funding",
+        "Internship",
+        "Startup",
+        "Event",
+        "Tender",
+        "Recruitment",
+        "Results",
+        "Press Release",
+        "Policy"
+      ]
+    },
+    "noticePDF": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "order": {
+      "type": "integer"
+    },
+    "formLink": {
+      "type": "string"
+    },
+    "btnText": {
+      "type": "string"
+    }
+  }
+}
